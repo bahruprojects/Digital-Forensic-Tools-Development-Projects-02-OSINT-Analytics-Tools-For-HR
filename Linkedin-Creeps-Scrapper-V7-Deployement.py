@@ -23,7 +23,7 @@ import io
 class LinkedInScraperPro:
     def __init__(self, profile_url, email=None, password=None, headless=False, max_scrolls=15):
         """
-        Initialize LinkedIn Scraper Pro
+        Initialize LinkedIn Creeps Scraper
         
         Parameters:
             profile_url (str): LinkedIn profile URL
