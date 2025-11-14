@@ -1,4 +1,4 @@
-# Linkedin-Creeps-Scrapper-V7 (Buat Github)
+# Linkedin-Creeps-Scrapper-V7
 
 import os
 import time
@@ -920,3 +920,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
